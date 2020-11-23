@@ -1,6 +1,8 @@
 body {
     color: white;
-    background-color: #89cff0; /*baby blue*/
+    background-color: #89cff0;
+    font-family: 'Frank Ruhl Libre', serif;
+    /*baby blue*/
 }
 
 .site-header {
@@ -28,3 +30,23 @@ body {
 .image {
     border-radius: 3%;
 }
+
+a {
+    /*background-color: white;*/
+    color: #ebd002;
+    padding: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+/*for testing*/
+.ball {
+    position: absolute;
+    border-radius: 100%;
+    opacity: 0.75;
+    z-index: -1;
+    transition: 100s;
+    border-radius: 50px;
+    height: 20px;
+    width: 200px;
+  }
