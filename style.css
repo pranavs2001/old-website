@@ -31,12 +31,18 @@ body {
     border-radius: 3%;
 }
 
+.subpage-wrapper {
+    padding-left: 50px;
+}
+
+
+
 a {
     /*background-color: white;*/
-    color: #ebd002;
+    color: white;
     padding: 1px;
-    text-decoration: none;
-    text-transform: uppercase;
+    /*text-decoration: none;
+    text-transform: uppercase;*/
 }
 
 .filler {
