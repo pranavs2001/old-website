@@ -1,3 +1,4 @@
+/*
 // Some random colors
 const colors = ["#3CC157", "#2AA7FF", "#1B1B1B", "#FCBC0F", "#F85F36"];
 
@@ -38,4 +39,4 @@ balls.forEach((el, i, ra) => {
       easing: "ease-in-out"
     }
   );
-});
+});*/
